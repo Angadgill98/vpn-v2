@@ -1,0 +1,17 @@
+cargo build
+
+
+
+sudo ./target/debug/client-interface
+
+
+
+
+
+
+
+
+
+
+
+sudo ./target/debug/server
